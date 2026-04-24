@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\obj\Debug\Lista1exc6.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\obj\Debug\Lista1exc6.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\bin\Debug\Lista1exc6.exe.config
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\bin\Debug\Lista1exc6.exe
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\bin\Debug\Lista1exc6.pdb
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\obj\Debug\Lista1exc6.exe
+C:\Users\aluno\source\repos\Lista1exc6\Lista1exc6\obj\Debug\Lista1exc6.pdb
